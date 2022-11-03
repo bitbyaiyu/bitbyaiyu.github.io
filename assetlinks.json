@@ -1,0 +1,32 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atech.bit",
+      "sha256_cert_fingerprints": [
+        "C4:18:73:31:C8:66:F0:FA:2D:80:5C:8A:7E:28:DE:96:68:9D:D3:9A:C9:DB:53:C0:C3:37:7F:17:F0:4A:77:EB"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atech.bit",
+      "sha256_cert_fingerprints": [
+        "C9:B4:42:7D:F7:E7:99:66:92:12:9F:0A:0A:39:69:C6:DA:0F:2C:65:F6:82:DB:46:A0:10:B4:E2:EB:20:95:50"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atech.bit",
+      "sha256_cert_fingerprints": [
+        "32:C8:10:50:66:89:42:75:97:72:8C:7E:17:78:FD:C9:62:A4:82:5E:EE:19:43:5B:DD:AF:5B:7C:F3:24:62:FF"
+      ]
+    }
+  }
+]
